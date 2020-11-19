@@ -3,6 +3,10 @@ body {
 }
 h2 {
   background-color: yellow;
+<<<<<<< HEAD
   color: black;
+=======
+  color: red;
+>>>>>>> konflikti
   text-align: center;
 }
